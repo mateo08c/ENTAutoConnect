@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3419148a-4af5-4e3d-938f-a38cb8d72a68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/js/contentScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/eventPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inject/css/www_monbureaunumerique_fr.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/better_ent_background.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/www_monbureaunumerique_fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/popup/popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/popup/popup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/popup/popup.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +81,7 @@
       <workItem from="1668514447086" duration="791000" />
       <workItem from="1668515477686" duration="1404000" />
       <workItem from="1668642257052" duration="663000" />
-      <workItem from="1673098351167" duration="10241000" />
+      <workItem from="1673098351167" duration="10420000" />
     </task>
     <servers />
   </component>
