@@ -1,12 +1,12 @@
 {
-  "name": "Better ENT",
-  "version": "0.0.1",
+  "name": "ENTAutoConnect",
+  "version": "0.0.2",
   "manifest_version": 3,
-  "description": "This is a browser extension that makes it easier connect with your ENT.",
+  "description": "",
   "icons": {
-    "16": "icons/BetterENT.png",
-    "48": "icons/BetterENT.png",
-    "128": "icons/BetterENT.png"
+    "16": "icons/ENTAutoConnect.png",
+    "48": "icons/ENTAutoConnect.png",
+    "128": "icons/ENTAutoConnect.png"
   },
   "permissions": [
     "storage",
